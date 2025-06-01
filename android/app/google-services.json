@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861953191130",
+    "project_id": "zain-ashraf-1st",
+    "storage_bucket": "zain-ashraf-1st.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861953191130:android:d0b19793150bc5f8a989e3",
+        "android_client_info": {
+          "package_name": "com.example.semester_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Lh5jDppEIk7jGZCeG5u-NupPqPBaZXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
